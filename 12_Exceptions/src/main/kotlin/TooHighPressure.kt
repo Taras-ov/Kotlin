@@ -1,0 +1,1 @@
+class TooHighPressure : Throwable(message = "Слишком высокое давление")
